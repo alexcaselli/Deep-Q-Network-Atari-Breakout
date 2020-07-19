@@ -3,3 +3,4 @@ The purpose of this project is to train a Deep Q-Network agent (https://daiwk.gi
 The DQN agent has 3 main components: the online Q-network, the target Q-network, and a replay buffer.
 
 A demo video of the DQN agent playing can be found here as Gameplay.mp4
+![alt text](https://github.com/alexcaselli/Deep-Q-Network-Atari-Breakout/blob/master/gamescreen.png)
